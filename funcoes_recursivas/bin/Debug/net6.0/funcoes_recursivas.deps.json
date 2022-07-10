@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "funcoes_recursivas/1.0.0": {
+        "runtime": {
+          "funcoes_recursivas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "funcoes_recursivas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

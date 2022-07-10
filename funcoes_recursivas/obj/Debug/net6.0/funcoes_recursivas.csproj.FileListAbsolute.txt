@@ -1,0 +1,30 @@
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.exe
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.deps.json
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.runtimeconfig.json
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.pdb
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.csproj.AssemblyReference.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.AssemblyInfoInputs.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.AssemblyInfo.cs
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\refint\funcoes_recursivas.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.pdb
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.genruntimeconfig.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\06 - FUNÇÕES - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\ref\funcoes_recursivas.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.exe
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.deps.json
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.runtimeconfig.json
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\bin\Debug\net6.0\funcoes_recursivas.pdb
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.csproj.AssemblyReference.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.AssemblyInfoInputs.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.AssemblyInfo.cs
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.csproj.CoreCompileInputs.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\refint\funcoes_recursivas.dll
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.pdb
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\funcoes_recursivas.genruntimeconfig.cache
+C:\Users\FATIMA AIKAWA\Documents\CURSO C# DANILO APARECIDO\07 - FUNÇÕES RECURSIVAS - C# - TORNE-SE UM PROGRAMADOR\funcoes_recursivas\obj\Debug\net6.0\ref\funcoes_recursivas.dll
